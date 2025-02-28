@@ -1,4 +1,4 @@
-let inputStr="AAABBBDDDSSSFGHHBC"; 
+let inputStr="AABBBDDDSSSFGHHBC";     //A2B4D3S3F1G1H2C1
 let list={}; 
 let outputStr="";
 
